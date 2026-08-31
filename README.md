@@ -1,7 +1,7 @@
 # Mini SOC Lab
 
 ## Overview
-
+ 
 A hands-on cybersecurity lab designed to simulate, detect and investigate suspicious authentication activity within a virtualised Linux environment.
 
 ## Objectives
